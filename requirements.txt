@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+langchain-chroma
+pandas
+
+ollama pull llama3.2 from cmd 
+ollama pull mxbai-embed-large
